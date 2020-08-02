@@ -18,11 +18,9 @@ social: true
 
 Hello! I am a PhD Student in the [Department of Biostatistics](https://www.biostat.washington.edu) at the University of Washington and a Researcher in Mathematical Sciences at the [Institute for Health Metrics and Evaluation](http://www.healthdata.org).
 
-I am passionate about learning a new method or concept and then teaching it to others, whether it be in (bio)statistics, epidemiology, or programming and software development.
+I am passionate about learning a new method or concept and then teaching it to others, whether it be in (bio)statistics, epidemiology, or programming and software development. I enjoy translating statistical models into flexible software applications, using both Python and R, with a special focus on designing efficient workflows for those applications using high performance computing.
 
-My current research focuses on developing methods and software tools for population health modeling that make use of all available data with [Sasha Aravkin](https://uw-amo.github.io/saravkin/). I enjoy translating statistical models into flexible software applications, using both Python and R, with a special focus on designing efficient workflows for those applications using high performance computing.
-
-Prior to being a PhD Student, I earned my Master of Science also in Biostatistics at UW. For my thesis under the guidance of my advisor [Ruth Etzioni](https://www.fredhutch.org/en/faculty-lab-directory/etzioni-ruth.html), I developed a novel method to estimate time to cancer progression or recurrence using population-level data readily available from cancer registries.
+My current research focuses on developing methods and software tools for population health modeling that make use of all available data with [Sasha Aravkin](https://uw-amo.github.io/saravkin/). Prior to being a PhD Student, I earned my Master of Science also in Biostatistics at UW. For my thesis under the guidance of my advisor [Ruth Etzioni](https://www.fredhutch.org/en/faculty-lab-directory/etzioni-ruth.html), I developed a novel method to estimate time to cancer progression or recurrence using population-level data readily available from cancer registries.
 
 I was also a Post-Bachelor Fellow at IHME where I worked on a variety of projects for the Global Burden of Disease Study and contributed to training GBD collaborators around the world and new Fellows in statistical and epidemiological methods as well as computing.
 
