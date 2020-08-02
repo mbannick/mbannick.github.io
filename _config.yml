@@ -8,7 +8,9 @@ description: > # this means to ignore newlines until "url:"
   PhD Student in Biostatistics at the University of Washington
 footer_text: ""
 
-url:  # the base hostname & protocol for your site
+url: "https://mbannick.github.io"
+plugins:
+  - jekyll-sitemap
 baseurl: 
 last_updated: false # set to true if you want to display last updated in the footer
 
