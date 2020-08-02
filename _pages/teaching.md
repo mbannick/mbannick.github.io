@@ -8,5 +8,9 @@ nav: true
 
 ### Lectures
 
-- **Introduction to Epidemiological and Biostatistical Thinking** | *University of Washington Neurology Fellows*
-	[Slides](https://github.com/mbannick/uw-neurology-fellows)
+<br />
+
+#### Introduction to Epidemiological and Biostatistical Thinking
+July 2020
+<br />
+University of Washington Neurology Fellows -- [Slides](https://github.com/mbannick/uw-neurology-fellows/blob/master/slides/biostats_I.pdf)
