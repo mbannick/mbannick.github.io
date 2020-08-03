@@ -8,7 +8,7 @@ description: > # this means to ignore newlines until "url:"
   PhD Student in Biostatistics at the University of Washington
 footer_text: ""
 
-url: "https://mbannick.github.io"
+url: "https://www.marlenabannick.com"
 plugins:
   - jekyll-sitemap
 baseurl: 
