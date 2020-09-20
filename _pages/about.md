@@ -16,7 +16,7 @@ news: true
 social: true
 ---
 
-Hello! I am a first year PhD Student in the [Department of Biostatistics](https://www.biostat.washington.edu) at the University of Washington. I obtained my MS in the department in 2019.
+Hello! I am a first year PhD Student in the [Department of Biostatistics](https://www.biostat.washington.edu) at the University of Washington. I obtained my MS in Biostatistics in 2019.
 
 I am passionate about learning a new method or concept and then teaching it to others, whether it be in (bio)statistics, epidemiology, or programming and software development. I enjoy translating statistical models into flexible software applications, using both Python and R, with a special focus on designing efficient workflows for those applications using high performance computing.
 
