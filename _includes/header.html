@@ -4,12 +4,14 @@
     <nav id="navbar" class="navbar navbar-light bg-white navbar-expand-sm {% if site.navbar_fixed %}fixed-top{% else %}sticky-top{% endif %}">
     <div class="container">
       {% if page.title != "about" %}
+      {% if page.title != "cv" %}
       {% assign name = site.title | split: ' ' %}
       {% assign firstname = name | first %}
       {% if name.size > 2 %}
          {% assign middlenames =  name | slice:1, name.size-1 | join:" " %}
       {% else %}
          {% assign middlenames = '' %}
+      {% endif %}
       {% endif %}
       {% assign lastname = name | last %}
       <a class="navbar-brand title font-weight-lighter" href="{{ site.baseurl | prepend: site.url }}/">
@@ -39,21 +41,20 @@
               {% endif %}
             </a>
           </li>
-          {% if site.blog_name %}
-          <!-- Blog -->
-<!--           <li class="nav-item {% if page.url contains 'blog' %}active{% endif %}">
-            <a class="nav-link" href="{{ '/blog/' | relative_url }}">
-              blog
-              {% if page.title == "blog" %}
+          <!-- CV -->
+           <li class="nav-item {% if page.url contains 'cv' %}active{% endif %}">
+            <a class="nav-link" href="/assets/pdf/main.pdf">
+              cv
+              {% if page.title == "cv" %}
               <span class="sr-only">(current)</span>
               {% endif %}
             </a>
           </li>
-          {% endif %} -->
           <!-- Other pages -->
           {% assign sorted_pages = site.pages | sort: "title" %}
           {% for p in sorted_pages %}
           {% if p.nav and p.autogen == nil %}
+          {% if p.title != "cv" %}
           <li class="nav-item {% if page.title == p.title %}active{% endif %}">
               <a class="nav-link" href="{{ p.url | relative_url }}">
                 {{ p.title }}
@@ -62,6 +63,7 @@
                 {% endif %}
               </a>
           </li>
+          {% endif %}
           {% endif %}
           {% endfor %}
         </ul>
