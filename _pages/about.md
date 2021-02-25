@@ -18,7 +18,7 @@ social: true
 
 Hello! I am a PhD Student in the [Department of Biostatistics](https://www.biostat.washington.edu) at the University of Washington. I obtained my MS in Biostatistics in 2019.
 
-My research interests include the design and analysis of clinical trials, statistical learning, and global health metrics. Currently, I am a Research Assistant with [Dr. Fei Gao](https://www.fredhutch.org/en/faculty-lab-directory/gao-fei.html) at [Fred Hutchinson Cancer Research Center](http://www.fhcrc.org) where we are working on statistical methods related to estimating incidence of HIV in a counterfactual placebo arm of HIV prevention clinical trials using recency assays.
+My research interests include the design and analysis of clinical trials, statistical learning, and global health metrics. Currently, I am a Research Assistant with [Dr. Fei Gao](https://www.fredhutch.org/en/faculty-lab-directory/gao-fei.html) at [Fred Hutchinson Cancer Research Center](http://www.fhcrc.org) where we are working on statistical methods for estimating counterfactual placebo incidence of HIV for active-controlled trials in HIV prevention.
 
 I am passionate about learning a new method or concept and then teaching it to others, whether it be in (bio)statistics, epidemiology, or programming and software development. I enjoy translating statistical models into flexible software applications, using both Python and R, with a special focus on designing efficient workflows for those applications using high performance computing.
 
