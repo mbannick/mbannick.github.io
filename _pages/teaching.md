@@ -9,6 +9,12 @@ nav: true
 <br />
 
 ### Teaching Assistant
+<br />
+
+#### Design of Medical Studies
+Spring 2021 | Teaching assistant for [Prof. Thomas Fleming](https://www.biostat.washington.edu/people/thomas-fleming)
+<br />
+University of Washington
 
 #### Survival Data Analysis in Epidemiology
 Winter 2021 | Co-teaching assistant for [Prof. Jon Wakefield](https://faculty.washington.edu/jonno/)
