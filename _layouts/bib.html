@@ -43,7 +43,11 @@
                 {% if site.data.coauthors[author.last] %}
                   and <a href="{{site.data.coauthors[author.last].url}}" target="_blank">{{author.last}}, {{author.first}}</a>
                 {% else %}
-                  and {{author.last}}, {{author.first}}
+                  {% if author.first == "Al" %}
+                    et al.
+                  {% else %}
+                    and {{author.last}}, {{author.first}}
+                  {% endif %}
                 {% endif %}
               {% endif %}
             {% endunless %}
