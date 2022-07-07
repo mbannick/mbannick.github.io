@@ -58,9 +58,9 @@
       <span class="periodical">
       {% if entry.type == "article" %}
         {% if entry.doi %}
-          <em><a href="http://doi.org/{{ entry.doi }}">{{entry.journal}}.</a></em>
+          <em><a href="http://doi.org/{{ entry.doi }}">{{entry.journal}}</a></em>
         {% else %}
-          <em>{{entry.journal}}.</em>
+          <em>{{entry.journal}}</em>
         {% endif %}
       {% elsif entry.type == "inproceedings" %}
         <em>In {{entry.booktitle}}</em>
