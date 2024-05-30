@@ -16,13 +16,13 @@ news: true
 social: true
 ---
 
-Hello! I am a third-year PhD Student in the [Department of Biostatistics](https://www.biostat.washington.edu) at the University of Washington.
+Hello! I am a PhD Student in the [Department of Biostatistics](https://www.biostat.washington.edu) at the University of Washington.
 
 *What do I work on?*
 
-My research interests include the design and analysis of clinical trials, statistical learning, and population health. I am co-advised by [Dr. Noah Simon](http://faculty.washington.edu/nrsimon/) and [Dr. Ting Ye](https://sites.google.com/view/tingye). Our current research is on inconsistent covariate adjustment in group sequential trials and covariate adjustment in trials with covariate-adaptive randomization.
+My research interests include the design and analysis of clinical trials, statistical learning, and population health. I am co-advised by [Dr. Noah Simon](http://faculty.washington.edu/nrsimon/) and [Dr. Ting Ye](https://sites.google.com/view/tingye). Our research focuses on developing robust and flexible statistical methods for clinical trials with innovative and practical designs. These include group sequential trials, trials utilizing covariate-adaptive randomization and/or covariate adjustment, and platform trials.
 
-I am also a Research Assistant with [Dr. Fei Gao](https://www.fredhutch.org/en/faculty-lab-directory/gao-fei.html) in the [Biostatistics, Bioinformatics, and Epidemiology Program](https://www.fredhutch.org/en/research/divisions/vaccine-infectious-disease-division/research/biostatistics-bioinformatics-and-epidemiology.html) at [Fred Hutchinson Cancer Center](http://www.fhcrc.org). We are working on statistical methods for estimating cross-sectional HIV incidence, which are useful for population effectiveness studies, and for obtaining counterfactual placebo incidence in active-controlled trials (see our recent paper in [Statistics in Medicine](https://onlinelibrary.wiley.com/doi/10.1002/sim.9296)). We also have recent work discussing study designs of retrospective, observational studies of SARS-CoV-2 transmission.
+I am also a Research Assistant with [Dr. Fei Gao](https://www.fredhutch.org/en/faculty-lab-directory/gao-fei.html) in the [Biostatistics, Bioinformatics, and Epidemiology Program](https://www.fredhutch.org/en/research/divisions/vaccine-infectious-disease-division/research/biostatistics-bioinformatics-and-epidemiology.html) at [Fred Hutchinson Cancer Center](http://www.fhcrc.org). We are working on statistical methods for estimating cross-sectional HIV incidence, which are useful for population effectiveness studies, and for obtaining counterfactual placebo incidence in active-controlled trials (see our recent papers in Statistics in Medicine [here](https://onlinelibrary.wiley.com/doi/10.1002/sim.9296) and [here](https://onlinelibrary.wiley.com/doi/10.1002/sim.10112)). We also have recent work discussing study designs of retrospective, observational studies of SARS-CoV-2 transmission.
 
 *How did I get here?*
 
