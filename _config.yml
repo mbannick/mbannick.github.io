@@ -5,7 +5,7 @@
 title: Marlena Bannick
 email: mnorwood@uw.edu
 description: > # this means to ignore newlines until "url:"
-  PhD Student in Biostatistics at the University of Washington
+  PhD Candidate in Biostatistics at the University of Washington
 footer_text: ""
 
 url: "https://www.marlenabannick.com"
@@ -36,7 +36,7 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # -----------------------------------------------------------------------------
 
 github_username: mbannick
-twitter_username: BannickMarlena
+twitter_username: #
 linkedin_username: marlena-bannick-5941a661
 scholar_userid: # your Google Scholar ID
 orcid_id: # your ORCID ID
