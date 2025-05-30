@@ -20,7 +20,9 @@ Hello! I am a PhD Candidate in the [Department of Biostatistics](https://www.bio
 
 <hr/>
 
-I am co-advised by [Dr. Noah Simon](http://faculty.washington.edu/nrsimon/) and [Dr. Ting Ye](https://sites.google.com/view/tingye). Our research focuses on developing robust and flexible statistical methods for clinical trials that have adaptive elements, like group sequential trials, trials with covariate-adaptive randomization, and platform trials.
+I am co-advised by [Dr. Ting Ye](https://sites.google.com/view/tingye) and [Dr. Noah Simon](http://faculty.washington.edu/nrsimon/). Our research focuses on developing robust and flexible statistical methods for clinical trials that have adaptive elements, like [group sequential trials](https://onlinelibrary.wiley.com/doi/10.1002/sim.70082), [trials that use covariate-adaptive randomization](https://academic.oup.com/biomet/advance-article-abstract/doi/10.1093/biomet/asaf029/8112010?redirectedFrom=fulltext&login=false), and platform trials.
+
+*Our package [RobinCar](https://cran.r-project.org/web/packages/RobinCar/index.html) for covariate adjustment in randomized clinical trials -- and its sister package [RobinCar2](https://cran.r-project.org/web/packages/RobinCar2/index.html) -- are now available on CRAN!*
 
 I am also a Research Assistant with [Dr. Fei Gao](https://www.fredhutch.org/en/faculty-lab-directory/gao-fei.html) in the [Biostatistics, Bioinformatics, and Epidemiology Program](https://www.fredhutch.org/en/research/divisions/vaccine-infectious-disease-division/research/biostatistics-bioinformatics-and-epidemiology.html) at [Fred Hutchinson Cancer Center](http://www.fhcrc.org). We are working on statistical methods for estimating cross-sectional HIV incidence, which are useful for population effectiveness studies, and for obtaining counterfactual placebo incidence in active-controlled trials (see our recent papers in Statistics in Medicine [here](https://onlinelibrary.wiley.com/doi/10.1002/sim.9296) and [here](https://onlinelibrary.wiley.com/doi/10.1002/sim.10112)). We also have recent work discussing study designs of retrospective, observational studies of SARS-CoV-2 transmission.
 
