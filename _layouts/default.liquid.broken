@@ -1,0 +1,16 @@
+<style>
+  a {
+    color: #0076a8 !important;
+  }
+
+  a:hover,
+  a:focus {
+    color: #005f86 !important;
+  }
+
+  ::selection {
+    background: #0076a8;
+    color: #ffffff;
+  }
+</style>
+

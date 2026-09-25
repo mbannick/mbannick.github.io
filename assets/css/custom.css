@@ -1,0 +1,49 @@
+.profile p,
+.profile .more-info,
+.profile .contact-note,
+.profile .address {
+  font-family: inherit !important;
+  font-size: 1rem !important;
+  font-weight: 400 !important;
+  line-height: 1.5 !important;
+}
+
+:root {
+  --global-theme-color: #0076a8;
+  --global-hover-color: #005f86;
+}
+
+html[data-theme="dark"] {
+  --global-theme-color: #0076a8;
+  --global-hover-color: #66b9d6;
+}
+
+a,
+a:link,
+a:visited,
+nav a,
+nav a:link,
+nav a:visited,
+.dropdown-menu a,
+.dropdown-menu a:link,
+.dropdown-menu a:visited {
+  color: #0076a8 !important;
+}
+
+a:hover,
+a:focus,
+a:active,
+nav a:hover,
+nav a:focus,
+nav a:active,
+.dropdown-menu a:hover,
+.dropdown-menu a:focus,
+.dropdown-menu a:active {
+  color: #005f86 !important;
+}
+
+::selection {
+  background: #0076a8;
+  color: #ffffff;
+}
+
