@@ -1,7 +1,5 @@
 .profile p,
-.profile .more-info,
-.profile .contact-note,
-.profile .address {
+.profile .more-info {
   font-family: inherit !important;
   font-size: 1rem !important;
   font-weight: 400 !important;
